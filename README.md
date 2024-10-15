@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetk06&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetk06" /> </p>
 
-- 🌱 I’m currently learning **Power BI and pythoe**
+- 🌱 I’m currently learning **Power BI and python**
 
 - 🐱‍🏍 I’m looking to collaborate on **project based on Data Analytics.**
 
