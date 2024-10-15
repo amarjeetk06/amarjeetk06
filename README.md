@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, I am Amarjeet</h1>
-<h3 align="center">Learning web development.</h3>
+<h3 align="center">Learning Data Analyst.</h3>
 <img align="right" alt="coding image" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjeetk06&label=Profile%20views&color=0e75b6&style=flat" alt="amarjeetk06" /> </p>
 
-- 🌱 I’m currently learning **React.js , Next.js**
+- 🌱 I’m currently learning **Power BI and pythoe**
 
-- 🐱‍🏍 I’m looking to collaborate on **project based on web development.**
+- 🐱‍🏍 I’m looking to collaborate on **project based on Data Analytics.**
 
 - 📫 How to reach me **amarjeetk406@gmail.com**
 
